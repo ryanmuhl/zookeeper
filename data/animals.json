@@ -207,6 +207,25 @@
         "hungry"
       ],
       "id": "21"
+    },
+    {
+      "name": "Goose",
+      "species": "Wonderful",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "22"
+    },
+    {
+      "name": "Snake",
+      "species": "SSSSSSS",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "23"
     }
   ]
 }
